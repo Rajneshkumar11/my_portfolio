@@ -2,7 +2,7 @@
 Responsive modern Portfolio website using HTML, CSS, and JavaScript
 
 ## Demo 
-View live demo [here →](https://github.com/Rajneshkumar11/my_portfolio)
+View live demo [here →](http://127.0.0.1:5500/index.html)
 
 ![portfolio](Rajnesh.png)
 
